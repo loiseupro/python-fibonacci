@@ -1,2 +1,2 @@
 # Fibonacci function - Python
-Example function to return Fibonacci sequence
+Example function to return Fibonacci sequence.
